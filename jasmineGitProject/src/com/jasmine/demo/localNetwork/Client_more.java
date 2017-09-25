@@ -1,4 +1,4 @@
-package com.jasmine.localNetwork;
+package com.jasmine.demo.localNetwork;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

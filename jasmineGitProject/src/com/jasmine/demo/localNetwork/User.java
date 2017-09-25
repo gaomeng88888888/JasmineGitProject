@@ -1,4 +1,4 @@
-package com.jasmine.localNetwork;
+package com.jasmine.demo.localNetwork;
 
 public class User {
 	/**
