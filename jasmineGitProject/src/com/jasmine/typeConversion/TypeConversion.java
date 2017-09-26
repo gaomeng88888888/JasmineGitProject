@@ -11,7 +11,10 @@ import org.junit.Test;
 public class TypeConversion {
 	
 	/*
-	 * 编译器报错：java.lang.Error: Unresolved compilation problem:Type mismatch: cannot convert from int to short
+	 * 编译器报错：
+	 * java.lang.Error: Unresolved compilation problem:
+	 * Type mismatch: cannot convert from int to short
+	 * 
 	 * 当short+1的时候返回值转换为int，再次赋值给s的时候发生short to int类型转换失败
 	 */
 	@Test
