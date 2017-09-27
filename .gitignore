@@ -24,4 +24,6 @@ hs_err_pid*
 *.properties
 *.js
 *.css
+
+#java output catalog
 jasmineGitProject/test-output/
