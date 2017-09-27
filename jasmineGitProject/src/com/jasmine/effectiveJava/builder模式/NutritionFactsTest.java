@@ -1,4 +1,4 @@
-package com.jasmine.pattern设计模式.builder模式;
+package com.jasmine.effectiveJava.builder模式;
 
 import java.awt.Color;
 import java.lang.reflect.Field;
