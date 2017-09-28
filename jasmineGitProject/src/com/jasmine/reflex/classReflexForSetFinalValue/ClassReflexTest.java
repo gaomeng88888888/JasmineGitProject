@@ -3,7 +3,7 @@ package com.jasmine.reflex.classReflexForSetFinalValue;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 
-public class Class1ReflexTest {
+public class ClassReflexTest {
 	public static void main (String[] args) throws IllegalArgumentException, IllegalAccessException, ClassNotFoundException {
 //		class1_1这样的对象不推荐使用反射，或者就不能用反射
 //		Class<?> class1_1 = Class.forName("com.jasmine.reflex.ClassReflex");
